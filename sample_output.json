@@ -1,0 +1,50 @@
+{
+  "results": [
+    {
+      "company_name": "GitHub",
+      "website_url": "https://github.com",
+      "emails": [],
+      "phones": [],
+      "description": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
+      "keywords": "N/A",
+      "address": "N/A",
+      "social_links": [
+        "https://www.linkedin.com/company/github",
+        "https://www.instagram.com/github",
+        "https://www.youtube.com/github"
+      ],
+      "status": "success",
+      "scraped_at": "2025-07-02 10:42:30"
+    },
+    {
+      "company_name": "Stack Overflow",
+      "website_url": "https://stackoverflow.com",
+      "emails": ["team@stackoverflow.com"],
+      "phones": [],
+      "description": "Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.",
+      "keywords": "programming, development, coding, Q&A",
+      "address": "N/A",
+      "social_links": [
+        "https://www.linkedin.com/company/stack-overflow",
+        "https://twitter.com/stackoverflow",
+        "https://www.facebook.com/officialstackoverflow"
+      ],
+      "status": "success",
+      "scraped_at": "2025-07-02 10:42:35"
+    },
+    {
+      "company_name": "Example Corp",
+      "website_url": "https://invalid-url-example.com",
+      "emails": [],
+      "phones": [],
+      "description": "N/A",
+      "keywords": "N/A",
+      "address": "N/A",
+      "social_links": [],
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='invalid-url-example.com', port=443): Max retries exceeded",
+      "scraped_at": "2025-07-02 10:42:40"
+    }
+  ]
+}
+
